@@ -23,6 +23,7 @@ var Config = {
     "/images/",
     "/views/",
     "/bower_components/",
+    "/data",
     "/favicon.ico"
   ]
 };
