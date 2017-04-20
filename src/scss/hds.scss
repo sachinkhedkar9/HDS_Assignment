@@ -12,6 +12,10 @@
   margin: 10px 0 20px 0;
 }
 
+.hdsTable tr:hover{
+  background: $color_iron_approx;
+  color: $color_tuatara_approx;
+}
 
 @media (min-width: 1000px){
   .tabsDetails{
