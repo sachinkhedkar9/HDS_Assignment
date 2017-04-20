@@ -20,7 +20,7 @@ skeleton.config(['$stateProvider', '$urlRouterProvider', function($stateProvider
   });
 
   $urlRouterProvider.otherwise('/login/')
-                    .when('/hds/', '/hds/accounts');
+                    .when('/hds/', '/hds/{accounts}');
 }]);
 
 
