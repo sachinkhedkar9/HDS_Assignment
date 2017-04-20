@@ -11,3 +11,12 @@
   border-bottom: 1px solid $color_iron_approx;
   margin: 10px 0 20px 0;
 }
+
+
+@media (min-width: 1000px){
+  .tabsDetails{
+    box-shadow: 0px 0px 10px 3px $color_gunsmoke_approx;
+    min-height: 85vh;
+  }
+
+}
